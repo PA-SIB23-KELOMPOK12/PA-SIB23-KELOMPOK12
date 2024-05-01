@@ -401,6 +401,28 @@ pada menu in juga kita bisa mencari tanggal yang akan kita lihat iklimnya dengan
 -jika kita memnilih menu login sebagai admin, maka kita disuruh memasukkan email admin, password dan akan menampilkan menu seperti ini:
 ![image](https://github.com/PA-SIB23-KELOMPOK12/PA-SIB23-KELOMPOK12/assets/128288203/06c079c7-a846-4916-8f7a-ff9f227edd84)
 
+-menambah data tren iklim
+![image](https://github.com/PA-SIB23-KELOMPOK12/PA-SIB23-KELOMPOK12/assets/128288203/966906e7-981c-463a-b40b-ad7490a2d174)
+![image](https://github.com/PA-SIB23-KELOMPOK12/PA-SIB23-KELOMPOK12/assets/128288203/1e8c445e-7fdc-4ee1-9486-c752864dbea6)
+
+-menu lihat tren iklim
+![image](https://github.com/PA-SIB23-KELOMPOK12/PA-SIB23-KELOMPOK12/assets/128288203/daa55019-409e-425e-ba72-283db9d0da1e)
+
+-menghapus data tren iklim
+![image](https://github.com/PA-SIB23-KELOMPOK12/PA-SIB23-KELOMPOK12/assets/128288203/db74c50d-78c8-4110-aca5-48805e77e9cc)
+
+-apabila kita memilihmenu melihat pengaduan, maka akan muncul gambar seperti ini. itu adalah pengaduan pengaduannya
+![image](https://github.com/PA-SIB23-KELOMPOK12/PA-SIB23-KELOMPOK12/assets/128288203/93951039-c426-4929-8b14-0dd76ba83395)
+
+-apabila kita memilih menu kelola pengaduan, maka akan muncul menu seperti 
+![image](https://github.com/PA-SIB23-KELOMPOK12/PA-SIB23-KELOMPOK12/assets/128288203/a7480a55-52a5-4b07-ba6c-6b603ea6d244)
+
+
+
+
+
+
+
 
 
 
