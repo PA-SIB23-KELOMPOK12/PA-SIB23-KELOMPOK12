@@ -374,8 +374,35 @@ Fungsi user login bertanggung jawab untuk proses login pengguna di dalam sistem 
 Fungsi admin login bertanggung jawab untuk proses login admin di dalam sistem dengan memasukkan email dan sandi
 
 *- Menjalankan Program
-PPPP
+
 
 ![image](https://github.com/PA-SIB23-KELOMPOK12/PA-B23-KELOMPOK12/assets/144971854/516a475c-d8d4-4c6d-9d4a-70e0ee3bfd7d)
 
 ## *Cara Penggunaan:*
+
+-![image](https://github.com/PA-SIB23-KELOMPOK12/PA-SIB23-KELOMPOK12/assets/128288203/096b6cad-3511-4754-ae4d-f61b30ebbe0e)
+gambar diatas menu untuk memilih login(user baru, user, admin)
+
+jika kita memilih 1 maka akan tampil menu seperti dibawah ini
+![image](https://github.com/PA-SIB23-KELOMPOK12/PA-SIB23-KELOMPOK12/assets/128288203/500ed66c-fbcc-46e9-bbcc-2d701734acfc)
+kita bisa melihat indormasi tren iklim, dan juga bisa melaporkan kejadian yang dapat membuat iklim memburuk
+
+![image](https://github.com/PA-SIB23-KELOMPOK12/PA-SIB23-KELOMPOK12/assets/128288203/834ffcd4-8a26-4c85-b14b-05bdbb5597b8)
+
+pada menu in juga kita bisa mencari tanggal yang akan kita lihat iklimnya dengan cara memasukan tanggal/bulan/tahun yang akan kita cari
+![image](https://github.com/PA-SIB23-KELOMPOK12/PA-SIB23-KELOMPOK12/assets/128288203/e134fccf-a8ed-46a5-980e-f587b67b35c1)
+
+-dan jika kita memilih menu untuk melaporkan, maka akan terlihat seperti iniL
+![image](https://github.com/PA-SIB23-KELOMPOK12/PA-SIB23-KELOMPOK12/assets/128288203/cbe15b2a-0d1a-42ad-b46d-cb14f6548b93)
+
+-dan jika kita kembali dan memilih untuk menu user baru, maka kita akan disuruh memasukkan nama, alamat, emal, dan nomor telepon seperti gambar dibawah ini
+![image](https://github.com/PA-SIB23-KELOMPOK12/PA-SIB23-KELOMPOK12/assets/128288203/b9828f74-da19-4b23-b3b6-b431f58ab3a6)
+
+-jika kita memnilih menu login sebagai admin, maka kita disuruh memasukkan email admin, password dan akan menampilkan menu seperti ini:
+![image](https://github.com/PA-SIB23-KELOMPOK12/PA-SIB23-KELOMPOK12/assets/128288203/06c079c7-a846-4916-8f7a-ff9f227edd84)
+
+
+
+
+
+
